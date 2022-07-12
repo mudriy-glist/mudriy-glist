@@ -39,6 +39,9 @@
 <img src="https://user-images.githubusercontent.com/81383411/178525546-582257e4-2e73-4f97-a890-17c15736e068.jpg" alt="progress_logo" height="75">
 <img src="https://user-images.githubusercontent.com/81383411/178525671-fedfa96b-5cdf-4fb9-816c-a6539ed19d36.jpg" alt="sap_logo" height="75">
 <img src="https://user-images.githubusercontent.com/81383411/178525877-3815055e-820a-4f92-b1dd-2d244e8e569d.jpg" alt="citrix_logo" height="75">
+<img src="https://user-images.githubusercontent.com/81383411/178537441-e751a5f9-fcaa-458d-9454-7c151e8ab107.png" alt="ajax_logo" height="75">
+<img src="https://user-images.githubusercontent.com/81383411/178537710-9193ce1d-431a-412e-bef4-7d7fec860cc3.png" alt="bootstrap_logo" height="75">
+
 
 
 </span>
