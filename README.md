@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on a web application for my current employer.
 - :bulb: I'm full of ideas on how to automate things and at the moment exploring manufacturing software solutions as part of my job 
 - :briefcase: I'm happy to participate in interesting projects which will allow me to develop new skills and get inspirations for my own projects
-- :mailbox: You can always reach me by <a href="mailto:peter.kulisov@gmail.com"><img src="https://user-images.githubusercontent.com/81383411/178489372-9bb88a78-d91e-4614-95fe-803e222a2584.png" alt="gmail_logo" width=35 align="middle" padding=10></a>
+- :mailbox: You can always reach me by <a href="mailto:peter.kulisov@gmail.com"><img src="https://user-images.githubusercontent.com/81383411/178526486-90fbb4e5-84f1-4c95-a19b-894c09eac0bf.svg" alt="gmail_logo" height=30 align="middle"></a>
 <br/>
 <br/>
 
