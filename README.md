@@ -3,9 +3,9 @@
 <hr/>
 
 - 🔭 I'm currently working on a web application for my current employer.
-- :exclamation: I'm currently learning to work with React
+- :bulb: I'm full of ideas on how to automate things and at the moment exploring manufacturing software solutions as part of my job 
 - :briefcase: I'm happy to participate in interesting projects which will allow me to develop new skills and get inspirations for my own projects
-- :mailbox: You can reach me by <a href="mailto:peter.kulisov@gmail.com"><img src="https://user-images.githubusercontent.com/81383411/178489372-9bb88a78-d91e-4614-95fe-803e222a2584.png" alt="gmail_logo" width=35 align="middle" padding=10></a>
+- :mailbox: You can always reach me by <a href="mailto:peter.kulisov@gmail.com"><img src="https://user-images.githubusercontent.com/81383411/178489372-9bb88a78-d91e-4614-95fe-803e222a2584.png" alt="gmail_logo" width=35 align="middle" padding=10></a>
 <br/>
 <br/>
 
@@ -36,14 +36,15 @@
 <img src="https://user-images.githubusercontent.com/81383411/178509036-d0996f5b-a443-4abc-8cc6-cdaa9ea9b853.jpg" alt="github_logo" height="75">
 <img src="https://user-images.githubusercontent.com/81383411/178509211-148588e6-c6fd-4ce4-8cda-0c97eb1e5223.jpg" alt="git_logo" height="75">
 <img src="https://user-images.githubusercontent.com/81383411/178509786-3d126fe0-f5c8-4579-931b-346a1778bc93.jpg" alt="aws_logo" height="75">
-
+<img src="https://user-images.githubusercontent.com/81383411/178525546-582257e4-2e73-4f97-a890-17c15736e068.jpg" alt="progress_logo" height="75">
+<img src="https://user-images.githubusercontent.com/81383411/178525671-fedfa96b-5cdf-4fb9-816c-a6539ed19d36.jpg" alt="sap_logo" height="75">
+<img src="https://user-images.githubusercontent.com/81383411/178525877-3815055e-820a-4f92-b1dd-2d244e8e569d.jpg" alt="citrix_logo" height="75">
 
 
 </span>
 <h1 align="center">I Also Learned</h1>
 <span>
-<span align="middle" height="45">Networking</span>
-<img src="https://user-images.githubusercontent.com/81383411/178502839-bd96e894-6ac4-44b4-8e6f-1ac7b95d4544.jpg" alt="network_logo" height="75">
+<img src="https://user-images.githubusercontent.com/81383411/178522812-c8fdbbf5-e7c4-4bf9-8fdf-73b91b845bba.jpg" alt="network_logo" height="75">
 <img src="https://user-images.githubusercontent.com/81383411/178504497-500bf5a1-fa7e-4146-85c1-36c8d7a575d7.jpg" alt="linux_logo" height="75">
 
 
