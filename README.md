@@ -1,8 +1,11 @@
+<h1 align="center">Hi! Peter is here!</h1>
+<h2 align="center">Thank you for visiting my GitHub acc, I'm a web developer approaching full-stack.</h2>
+<hr/>
 
-<div id="header" align="center">
-  <img src="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl" width="100px">
-</div>
-
+- 🔭 I'm currently working on a web application for my current employer.
+- :exclamation: I'm currently learning to work with React
+- :briefcase: I'm happy to participate in interesting projects which will allow me to develop new skills and get inspiration for my own projects
+- You can reach me by <a href="mailto:peter.kulisov@gmail.com"><img src="https://user-images.githubusercontent.com/81383411/178489372-9bb88a78-d91e-4614-95fe-803e222a2584.png" alt="gmail_logo" width=35 align="middle" padding=10></a>
 <!--
 **mudriy-glist/mudriy-glist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
