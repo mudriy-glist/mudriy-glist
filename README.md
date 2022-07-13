@@ -17,10 +17,11 @@
 <img src="https://user-images.githubusercontent.com/81383411/178491462-6f3b1671-494b-4de5-a6b7-256fcdb92913.png" alt="html_logo" height="75">
 <img src="https://user-images.githubusercontent.com/81383411/178491669-b0c83ded-5357-446b-9a47-2c29bdfbcfab.jpg" alt="css_logo" height="75">
 <img src="https://user-images.githubusercontent.com/81383411/178492234-bfd1c510-3e8c-49c6-ba43-710a1ef68153.png" alt="js_logo" height="75"> 
-<img src="https://user-images.githubusercontent.com/81383411/178506126-b6a5b7f5-59e9-4ba7-b549-5d9cbb3db7b0.jpg" alt="bash_logo" height="75" >
+<img src="https://user-images.githubusercontent.com/81383411/178506126-b6a5b7f5-59e9-4ba7-b549-5d9cbb3db7b0.jpg" alt="bash_logo" height="75">
+<img src="https://user-images.githubusercontent.com/81383411/178669891-b0a58ee8-377f-4b50-b0d0-f058a5761f55.jpg" alt="sql_logo" height="75">
  </span>
  
- 
+
  
 <h1 align="center">My Tools<h1><br/>
 <span>
